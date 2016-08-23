@@ -1,0 +1,54 @@
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Trade Interchange Challenge.dll.config
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Trade Interchange Challenge.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Trade Interchange Challenge.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Antlr3.Runtime.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\EntityFramework.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\EntityFramework.SqlServer.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Newtonsoft.Json.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Owin.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\System.Web.Optimization.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\System.Web.Providers.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\WebGrease.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\System.Web.Optimization.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Antlr3.Runtime.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Newtonsoft.Json.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\EntityFramework.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\EntityFramework.SqlServer.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\System.Web.Providers.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\obj\Debug\Trade Interchange Challenge.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\obj\Debug\Trade Interchange Challenge.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\DomainModel.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\bin\DomainModel.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge\obj\Debug\Trade Interchange Front.csprojResolveAssemblyReference.cache

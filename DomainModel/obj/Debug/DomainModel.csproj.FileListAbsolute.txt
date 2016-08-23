@@ -1,0 +1,11 @@
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\bin\Debug\System.Web.Http.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\bin\Debug\System.Web.Http.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache

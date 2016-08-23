@@ -1,0 +1,38 @@
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\obj\Debug\Data Layer.csprojResolveAssemblyReference.cache
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\Data Layer.dll.config
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\Data Layer.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\Data Layer.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\Antlr3.Runtime.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\DomainModel.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\EntityFramework.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\EntityFramework.SqlServer.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\Newtonsoft.Json.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Net.Http.Formatting.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Helpers.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Http.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Http.WebHost.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Mvc.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Optimization.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Razor.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.WebPages.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\WebGrease.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\DomainModel.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\EntityFramework.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\EntityFramework.SqlServer.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\Newtonsoft.Json.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Net.Http.Formatting.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Helpers.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Http.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Http.WebHost.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Mvc.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Optimization.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.Razor.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.WebPages.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\bin\Antlr3.Runtime.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\obj\Debug\Data Layer.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer\obj\Debug\Data Layer.pdb

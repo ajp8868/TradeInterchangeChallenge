@@ -1,0 +1,33 @@
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\obj\Debug\Data Layer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\Data Layer.Tests.dll.config
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\Data Layer.Tests.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\Data Layer.Tests.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\Data Layer.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\DomainModel.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\Data Layer.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\bin\Debug\DomainModel.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\obj\Debug\Data Layer.Tests.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Data Layer.Tests\obj\Debug\Data Layer.Tests.pdb

@@ -1,0 +1,28 @@
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Trade Interchange Challenge.Tests.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Trade Interchange Challenge.Tests.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Trade Interchange Challenge.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Owin.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Trade Interchange Challenge.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\obj\Debug\Trade Interchange Challenge.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\obj\Debug\Trade Interchange Challenge.Tests.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Trade Interchange Challenge\Trade Interchange Challenge.Tests\obj\Debug\Trade Interchange Challenge.Tests.pdb
